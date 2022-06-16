@@ -1,21 +1,37 @@
 {
-    "name": "thecoderguru-light-grey",
-    "displayName": "thecoderguru-light-grey",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.68.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "TheCoderGuru Light Grey",
-                "uiTheme": "vs-dark",
-                "path": "./themes/TheCoderGuru Light Grey-color-theme.json"
-            }
-        ]
-    }
+  "name": "thecoderguru-light-grey",
+  "displayName": "thecoderguru-light-grey",
+  "description": "",
+  "publisher": "ShashreeSamuel",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "TheCoderGuru Light Grey",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TheCoderGuru Light Grey-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "url": "https://github.com/TheCoderGuru/thecoderguru-lightgrey"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "thecoderguru",
+    "thecoder guru",
+    "coderguru",
+    "TheCoderGuru",
+    "thecoderguru-lightgrey",
+    "thecoderguru_light-grey",
+    "lightgrey",
+    "Light Grey"
+  ]
 }

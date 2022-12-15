@@ -1,9 +1,9 @@
 {
   "name": "thecoderguru-light-grey",
-  "displayName": "thecoderguru-light-grey",
+  "displayName": "TheCoderGuru Light Grey",
   "description": "",
   "publisher": "ShashreeSamuel",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.68.0"
   },

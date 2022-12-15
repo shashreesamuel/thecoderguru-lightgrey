@@ -2,14 +2,21 @@
 	"name": "TheCoderGuru Light Grey",
 	"colors": {
 		"editor.background": "#21242b",
+		"menu.background": "#25272f",
+		"menu.selectionBackground": "#17181d",
+		"tab.inactiveBackground": "#17181d",
+		"button.background": "#17181d",
+		"statusBar.noFolderBackground": "#21242b",
+		"statusBar.background": "#17181d",
 		"activityBar.background": "#21242b",
 		"activityBar.foreground": "#8c98b4",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
+		"activityBarBadge.background": "#17181d",
 		"sideBarTitle.foreground": "#bbbbbb",
 		"titleBar.activeBackground": "#17181d",
 		"editorGroupHeader.tabsBackground": "#1a1c22",
 		"minimap.background": "#1b1e24",
+		"list.activeSelectionBackground": "#17181d",
 		"sideBar.background": "#1e2127"
 	},
 	"tokenColors": [

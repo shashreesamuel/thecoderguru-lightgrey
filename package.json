@@ -2,6 +2,7 @@
   "name": "thecoderguru-light-grey",
   "displayName": "TheCoderGuru Light Grey",
   "description": "",
+  "icon": "plugin_icon.png",
   "publisher": "ShashreeSamuel",
   "version": "0.0.2",
   "engines": {

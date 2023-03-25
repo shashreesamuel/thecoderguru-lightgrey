@@ -1,23 +1,34 @@
 {
 	"name": "TheCoderGuru Light Grey",
 	"colors": {
-		"editor.background": "#21242b",
-		"menu.background": "#25272f",
-		"menu.selectionBackground": "#17181d",
+		"editor.background": "#2f3339",
+		"menu.background": "#30333d",
+		"menu.selectionBackground": "#22242a",
 		"tab.inactiveBackground": "#17181d",
-		"button.background": "#17181d",
+		"button.background": "#2f3339",
 		"statusBar.noFolderBackground": "#21242b",
-		"statusBar.background": "#17181d",
+		"statusBar.background": "#25272d",
 		"activityBar.background": "#21242b",
-		"activityBar.foreground": "#8c98b4",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#17181d",
+		"activityBar.activeBackground": "#383d48",
+		"activityBar.foreground": "#a9b6cd",
+		"editor.foreground": "#e4e3e3",
+		"activityBarBadge.background": "#2e3039",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"titleBar.activeBackground": "#17181d",
-		"editorGroupHeader.tabsBackground": "#1a1c22",
-		"minimap.background": "#1b1e24",
+		"titleBar.activeBackground": "#25272d",
+		"editorGroupHeader.tabsBackground": "#25262c",
+		"minimap.background": "#28292f",
 		"list.activeSelectionBackground": "#17181d",
-		"sideBar.background": "#1e2127"
+		"sideBar.background": "#1e2127",
+		"input.background": "#32343e",
+		"input.placeholderForeground": "#c0c2c9",
+		"extensionButton.background": "#424850",
+		"extensionButton.hoverBackground": "#5c5f6b",
+		"inputValidation.errorBackground": "#b53b12",
+		"inputValidation.errorForeground": "#ede6e4",
+		"inputValidation.errorBorder": "#b53b12",
+		"inputValidation.warningBackground": "#9fb512",
+		"dropdown.background": "#25272d",
+		"scrollbarSlider.background": "#5a5d6a"
 	},
 	"tokenColors": [
 		{
@@ -28,7 +39,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#7d88a3"
+				"foreground": "#ffcd62"
 			}
 		},
 		{
